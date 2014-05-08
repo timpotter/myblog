@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Get in touch
-permalink: /contacy/
+permalink: /contact/
 ---
 
-##Get in touch
+##Connect
 
 + Twitter
 + GitHub
